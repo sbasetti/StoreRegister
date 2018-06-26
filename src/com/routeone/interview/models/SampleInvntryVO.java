@@ -20,7 +20,7 @@ public class SampleInvntryVO implements Comparable<SampleInvntryVO>
 	{
 		return componentName;
 	}
-
+	
 	public void setComponentName(String componentName)
 	{
 		this.componentName = componentName;
