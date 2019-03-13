@@ -15,7 +15,7 @@ public class SampleInvntryVO implements Comparable<SampleInvntryVO>
 		this.price = price;
 		this.category = category;
 	}
-
+	
 	public String getComponentName()
 	{
 		return componentName;

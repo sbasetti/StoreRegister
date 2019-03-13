@@ -2,6 +2,9 @@ package com.routeone.interview.api;
 
 import java.util.List;
 
+/*
+ * Author: S Basetti
+ */
 public interface Receipt
 {
 	/** * @return Currency formatted total ($X,XXX.XX) of all items */
